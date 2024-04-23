@@ -1,0 +1,71 @@
+Introduction
+The Liberty Buddy project is currently at version 0.2.0, with the core functionality implemented to allow Navy personnel to access key information about countries they are visiting. Further iterations will focus on adding and enhancing existing features, adding more integrations, and thoroughly testing the app before release. 
+
+Liberty Buddy Change Log 
+
+Version 0.1.0 (2024-03-11) 
+
+Initial project setup 
+
+Added basic Android and iOS project structures 
+
+Implemented user authentication flow 
+
+Created data models for Country, Travel Advisory, Cultural Info 
+
+
+Version 0.2.0 (2024-03-18) 
+
+Allowed adding notes and photos for bookmarked countries 
+
+Implemented country listing screen with search functionality 
+
+Added ability to bookmark countries 
+
+
+Version 0.3.0 (2024-04-20) 
+
+Integrated Google Maps SDK for maps and locations 
+
+Built country details screen showing overview, travel advisories, cultural information 
+
+Enabled offline support using local database cache 
+
+Set up cloud Firestore database 
+
+
+Version 0.4.0 (2024-04-22) 
+
+Consumed travel advisory APIs from government sources 
+
+Pulled in cultural information from open data sources 
+
+Set up secure user data sync across devices 
+
+Implemented push notifications for important updates 
+
+
+Version 0.5.0 (2024-04-28) 
+
+Revamped UI with updated designs  
+
+Added localization support for 8 languages 
+
+Improved search relevance and filtering 
+
+Enabled sharing of country information 
+
+Set up analytics tracking for app usage 
+
+
+Version 0.6.0 (2024-05-05) 
+
+Integrated emergency contacts and procedures 
+
+Built dedicated screen for points of interest 
+
+Allowed uploading photos/videos for countries 
+
+Improved offline support and data syncing 
+
+Conducted beta testing and fixed major bugs 
